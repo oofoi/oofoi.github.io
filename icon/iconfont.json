@@ -1,0 +1,65 @@
+{
+  "id": "4846260",
+  "name": "contach",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3447371",
+      "name": "简历",
+      "font_class": "jianli1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6262758",
+      "name": "圆点",
+      "font_class": "yuandian",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11763245",
+      "name": "重点监管标签_line",
+      "font_class": "key-regulatory-labels_line",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "28330684",
+      "name": "人才招聘 - 招聘设置",
+      "font_class": "a-rencaizhaopin-zhaopinshezhi",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "37815188",
+      "name": "薪资",
+      "font_class": "xinzi",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "982375",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "1235215",
+      "name": "联系方式",
+      "font_class": "lianxifangshi",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "1240783",
+      "name": "地址",
+      "font_class": "dizhi1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}

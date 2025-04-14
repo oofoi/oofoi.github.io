@@ -1,0 +1,165 @@
+.contact_div {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: #fff;
+    padding-top: 130px;
+}
+
+.box {
+    width: 1200px;
+    height: 635px;
+    overflow: hidden;
+    zoom: 1;
+    margin: 0 auto;
+    /* background-color: pink; */
+}
+
+.title_1 {
+    text-align: center;
+    /* background-color: pink; */
+}
+
+.title_1 h2 {
+    position: relative;
+    color: #000;
+    font-size: 33px;
+    line-height: 40px;
+    font-weight: bold;
+}
+
+.title_1 p {
+    color: #7d7d7d;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.title_1_sl_l {
+    position: absolute;
+    color: #ccc;
+    margin: 11px 200px;
+    font-weight: 700;
+    padding-left: 160px;
+    padding-top: 3px;
+    float: left;
+}
+
+.title_1_sl_r {
+    position: absolute;
+    color: #ccc;
+    margin: 10px 0;
+    font-weight: 700;
+    padding-left: 735px;
+    padding-top: 4px;
+}
+
+.position_div {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    margin: 30px auto;
+    /* background-color: pink; */
+}
+
+.position_div_l {
+    float: left;
+    width: 595px;
+    height: 400px;
+    overflow: hidden;
+    /* margin-right: 40px; */
+}
+
+.position_div_l img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+.position_div_r {
+    float: right;
+    width: 565px;
+    height: auto;
+    overflow: hidden;
+    text-align: left;
+    margin: 15px 10px 0 0;
+    color: #000;
+}
+
+.position_div_r .iconfont {
+    font-size: 35px;
+}
+
+.position_div_r p {
+    font-size: 20px;
+}
+
+.position_div_r .contact-block1 {
+    /* background-color: red; */
+    margin: 15px 0;
+    height: 90px;
+}
+
+.position_div_r .contact-block1 span {
+    float: left;
+    margin: 17px 50px;
+}
+
+.position_div_r .contact-block1 p {
+    float: right;
+    margin-right: 165px;
+    line-height: 45px;
+}
+
+
+.position_div_r .contact-block2 {
+    /* background-color: pink; */
+    margin: 13px 0;
+    height: 75px;
+}
+
+.position_div_r .contact-block2 span {
+    float: left;
+    margin: 17px 50px;
+}
+
+.position_div_r .contact-block2 p {
+    float: right;
+    margin-right: 145px;
+    line-height: 45px;
+}
+
+.position_div_r .contact-block2 a {
+    color: #000;
+}
+
+
+
+
+.position_div_r .contact-block3 {
+    /* background-color: blue; */
+    margin: 30px 0;
+    height: 80px;
+}
+
+.position_div_r .contact-block3 span {
+    float: left;
+    margin: 13px 50px;
+}
+
+.position_div_r .contact-block3 p {
+    float: right;
+    margin-right: 197px;
+    margin-top: 24px;
+}
+
+.position_div_r .contact-block3 a {
+    color: #000;
+}
+
+.position_div_r .iconfont {
+    color: #2e4383;
+    /* 图标品牌色 */
+}
