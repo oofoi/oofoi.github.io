@@ -36,15 +36,15 @@
 
   /* Logo样式 */
   .logo {
-      width: 500px;
+      width: 460px;
       height: auto;
-      transform: scale(0.12);
-      transform-origin: left top;
       float: left;
+      /* background-color: pink; */
   }
 
   .logo img {
-      width: auto;
+      width: 100%;
+      height: auto;
   }
 
   /* 导航菜单 */
@@ -91,11 +91,12 @@
       font-weight: bold;
       font-size: 18px;
       text-align: center;
-      margin: -50px -55px 0px 50px;
+      color: black;
       border: 1px solid #ccc;
       border-radius: 4px;
       padding-top: 5px;
-      color: black;
+      margin-top: 20px;
+      margin-right: -730px;
   }
 
 
